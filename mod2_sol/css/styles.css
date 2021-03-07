@@ -6,6 +6,11 @@
   h1 {
     margin-bottom: 15px;
     text-align: center;
+    font-size: 1.75em;
+  }
+  
+  div {
+      padding: 10px;
   }
   
   .box {
@@ -25,6 +30,7 @@
     position: absolute;
     right: 0;
     top: 0;
+    font-size: 1.25em;
   }
 
   .label#chicken {
@@ -43,10 +49,6 @@
       padding-top: 30px;
   }
 
-  div {
-      padding: 15px;
-  }
-  
   /* Simple Responsive Framework. */
   .row {
     width: 100%;
